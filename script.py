@@ -1,11 +1,3 @@
-'''Вариант 2
-
-Обновление выполняется ежедневно 
-(@daily в crontab)
-
-'''
-
-
 from flask import Flask
 from flask import render_template
 import urllib
